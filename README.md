@@ -1,5 +1,7 @@
 # Build a Job Board with Python & Flask
 
+init by @coolfield
+
 ## Verify Local Environment
 
 ### Create Virtual Environment
